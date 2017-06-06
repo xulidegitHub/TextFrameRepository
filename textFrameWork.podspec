@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'textFrameWork'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of textFrameWork.'
+  s.version          = '0.0.1'
+  s.summary          = 'this framework is for text'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                        this is a frame work for text that help you to dealwith the text in your dailary life
                        DESC
 
-  s.homepage         = 'https://github.com/1203646961@qq.com/textFrameWork'
+  s.homepage         = 'https://github.com/xulidegitHub/TextFrameRepository/textFrameWork'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1203646961@qq.com' => 'xuli5@le.com' }
-  s.source           = { :git => 'https://github.com/1203646961@qq.com/textFrameWork.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xulidegitHub/TextFrameRepository.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+   s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
