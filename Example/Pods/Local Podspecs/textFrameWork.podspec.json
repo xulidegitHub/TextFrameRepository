@@ -1,0 +1,22 @@
+{
+  "name": "textFrameWork",
+  "version": "0.1.0",
+  "summary": "A short description of textFrameWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1203646961@qq.com/textFrameWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1203646961@qq.com": "xuli5@le.com"
+  },
+  "source": {
+    "git": "https://github.com/1203646961@qq.com/textFrameWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "textFrameWork/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - textFrameWork (0.1.0)
+
+DEPENDENCIES:
+  - textFrameWork (from `../`)
+
+EXTERNAL SOURCES:
+  textFrameWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  textFrameWork: a2adaca301530f09dd9601877f1a1a5221b1b4d1
+
+PODFILE CHECKSUM: 61ca1de8bbd051de6055c08f3cf58a4ea3466d6c
+
+COCOAPODS: 1.2.1

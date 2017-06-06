@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'textFrameWork_Example' do
+  pod 'textFrameWork', :path => '../'
+
+  target 'textFrameWork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
