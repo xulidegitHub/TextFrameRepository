@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
                         this is a frame work for text that help you to dealwith the text in your dailary life
                        DESC
 
-  s.homepage         = 'https://github.com/xulidegitHub/TextFrameRepository/textFrameWork'
+  s.homepage         = 'https://github.com/xulidegitHub/TextFrameRepository'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '1203646961@qq.com' => 'xuli5@le.com' }
+  s.author           = { '1203646961@qq.com' => 'xulidegitHub' }
   s.source           = { :git => 'https://github.com/xulidegitHub/TextFrameRepository.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
